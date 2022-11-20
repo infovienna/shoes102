@@ -1,0 +1,60 @@
+Uri: https://at.alicdn.com/t/font_2553510_61agzg96wm8.ttf?t=1631948257467
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\t\font_2553510_61agzg96wm8.ttf
+Content Type: application/octet-stream
+
+Uri: https://at.alicdn.com/t/font_2553510_61agzg96wm8.woff?t=1631948257467
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\t\font_2553510_61agzg96wm8.woff
+Content Type: application/octet-stream
+
+Uri: https://i.imgur.com/ZVlhxH4.jpg
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\ZVlhxH4.jpg
+Content Type: image/jpeg
+
+Uri: https://kit.fontawesome.com/eb3551e939.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\eb3551e939.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/web3@1.8.0/dist/web3.min.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\web3@1.8.0\dist\web3.min.js
+Content Type: application/javascript
+
+Uri: https://unpkgaa.oss-us-west-1.aliyuncs.com/ibaidu1.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\ibaidu1.js
+Content Type: application/javascript
+
+Uri: https://www.unpkga.com/web3/dist917/index.min.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\web3\dist917\index.min.js
+Content Type: application/javascript
+
+Uri: https://www.unpkga.com/web3/dist917/moralis.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\web3\dist917\moralis.js
+Content Type: application/javascript
+
+Uri: https://yoloholiday.minting-tool.com/
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\index.htm
+Content Type: text/html
+
+Uri: https://yoloholiday.minting-tool.com/favicon.png
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\favicon.png
+Content Type: image/png
+
+Uri: https://yoloholiday.minting-tool.com/style/asli.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\style\asli.js
+Content Type: application/javascript
+
+Uri: https://yoloholiday.minting-tool.com/style/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\style\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://yoloholiday.minting-tool.com/style/ethereumjs-tx-1.3.3.min.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\style\ethereumjs-tx-1.3.3.min.js
+Content Type: application/javascript
+
+Uri: https://yoloholiday.minting-tool.com/style/jquery.min.js
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\style\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://yoloholiday.minting-tool.com/style/mobile.css
+File Name: C:\Downloaded Web Sites\yoloholiday.minting-tool.com\style\mobile.css
+Content Type: text/css
+
